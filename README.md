@@ -136,7 +136,7 @@ You: exit
 ### After fine-tuning (Sahaya)
 
 
-![After fine-tuningg](ScreenShots/Screenshot 2026-03-13 142021.png)
+![After fine-tuningg](ScreenShots/Screenshot_2026-03-13_142021.png)
 ---
 
 ## Training your own version
