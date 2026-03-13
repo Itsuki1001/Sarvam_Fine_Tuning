@@ -1,0 +1,160 @@
+# How to Change Address in Aadhaar Card (Online & Offline)
+
+Updating the address in your Aadhaar card can be done **online through the myAadhaar portal or Aadhaar mobile app**, or **offline by visiting an Aadhaar Seva Kendra or authorised update centre**.
+
+When you submit an address update request online, a **Service Request Number (SRN)** is generated which can be used to track the status. The update is usually processed within **a few days**, but UIDAI allows **up to 30 days**.
+
+---
+
+# Key Highlights
+
+* **HoF-Based Update:** If the address proof is in the **Head of Family’s name**, the update can be done using **Proof of Relationship (POR)** at an Aadhaar centre.
+* **Accepted Documents:** UIDAI provides a list of valid documents for **identity, address, date of birth, and relationship proof**.
+* **Fee:** ₹75 is charged for a **demographic address update**.
+
+---
+
+# How to Change Address in Aadhaar Card Online
+
+You can update your Aadhaar address online using the **myAadhaar portal** or the **Aadhaar mobile app**.
+
+---
+
+## Method 1: Using the myAadhaar Portal
+
+**Step 1:** Visit the official myAadhaar portal:
+https://myaadhaar.uidai.gov.in
+
+Log in using your **Aadhaar number, captcha code, and OTP**.
+
+**Step 2:** After logging in, select the **“Address Update”** option.
+
+**Step 3:** Click **“Update Aadhaar Online.”**
+
+**Step 4:** Choose **“Address”** and click **“Proceed to Update Aadhaar.”**
+
+**Step 5:** Fill in the required details:
+
+* Enter **Care Of (C/O)** – father’s or husband’s name
+* Enter the **new address**
+* Select the **post office**
+* Choose a **valid Proof of Address (POA)**
+* Upload the **supporting document**
+
+**Step 6:** Click **Next**, review the details, and proceed to payment.
+
+**Step 7:** Pay the **₹75 fee** and submit the request.
+
+A **Service Request Number (SRN)** will be generated. Save it to track your update status.
+
+---
+
+## Method 2: Using the Aadhaar Mobile App
+
+**Step 1:** Open the **Aadhaar mobile app** on your smartphone.
+
+**Step 2:** Log in using your **Aadhaar credentials** and complete authentication.
+
+**Step 3:** Select the **Address Update** option.
+
+**Step 4:** Enter the **new address exactly as shown in the Proof of Address document**.
+
+**Step 5:** Upload a valid **Proof of Address (POA)** document.
+
+**Step 6:** Pay the **₹75 fee** and submit the request.
+
+You will receive a **Service Request Number (SRN)** for tracking.
+
+---
+
+# How to Change Address in Aadhaar Card Offline
+
+If you cannot update your address online or prefer offline service, visit an **Aadhaar Seva Kendra or authorised Aadhaar update centre**.
+
+**Step 1:** Visit the nearest Aadhaar update centre.
+
+**Step 2:** Fill out the **Aadhaar Update Form**.
+
+**Step 3:** Submit your **Proof of Address document** and complete **biometric authentication**.
+
+**Step 4:** Pay the **₹75 update fee**.
+
+**Step 5:** You will receive an **acknowledgement slip with a URN (Update Request Number)** to track your request.
+
+---
+
+# Documents Required for Aadhaar Address Change
+
+Some commonly accepted **Proof of Address (POA)** documents include:
+
+* Passport
+* Bank statement or passbook
+* Post Office account statement
+* Ration card
+* Voter ID
+* Disability ID card
+* MGNREGA/NREGS Job Card
+* Electricity bill (not older than 3 months)
+* Water bill (not older than 3 months)
+* Gas connection bill (not older than 3 months)
+* Telephone landline or postpaid mobile bill (not older than 3 months)
+* Broadband bill (not older than 3 months)
+* Property tax receipt (not older than 1 year)
+
+You should also keep a **Proof of Identity (POI)** such as **Passport, PAN card, Voter ID, or Ration card**.
+
+---
+
+# Can You Change Aadhaar Address Without Proof?
+
+No. Aadhaar address cannot be updated **without a valid Proof of Address (POA)**.
+
+The document must contain the **new address** and should either be:
+
+* in **your name**, or
+* in the **Head of Family’s name with Proof of Relationship**.
+
+The earlier **Address Validation Letter method has been discontinued**.
+
+---
+
+# Aadhaar Address Update Fees
+
+| Service                           | Fee                          |
+| --------------------------------- | ---------------------------- |
+| Demographic update (Address only) | ₹75                          |
+| Biometric update                  | ₹125                         |
+| Address + biometric update        | Only biometric fee may apply |
+
+---
+
+# How Long Does Aadhaar Address Update Take?
+
+UIDAI states that the maximum processing time is **30 days**, although most requests are **approved or rejected within a few days**.
+
+---
+
+# How to Check Aadhaar Address Update Status
+
+After submitting the request, you will receive an **SRN (Service Request Number)**.
+
+**Step 1:** Visit the **Aadhaar Update Status page** on the UIDAI portal.
+
+**Step 2:** Enter the **SRN and captcha code**.
+
+**Step 3:** Click **Submit** to view the update status.
+
+---
+
+# How to Download Aadhaar After Address Update
+
+Once the address update is approved, you can download the **updated e-Aadhaar** from the UIDAI portal.
+
+You can download it using:
+
+* Aadhaar Number
+* VID (Virtual ID)
+* SID
+* EID
+
+A **registered mobile number is required for OTP authentication**, and the **e-Aadhaar is digitally signed and legally valid as proof of identity and address**.

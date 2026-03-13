@@ -1,0 +1,245 @@
+# How to Apply for PAN Card Online and Offline in India
+
+A **Permanent Account Number (PAN)** is a unique identification number issued by the **Income Tax Department of India**. It is required for filing income tax returns, opening bank accounts, investing in financial instruments, and conducting high-value financial transactions.
+
+You can apply for a PAN card **online or offline** through authorised government portals.
+
+---
+
+# Key Highlights
+
+* PAN card can be applied online through the **Income Tax Portal, NSDL (Protean), or UTIITSL**.
+* **Instant e-PAN** is available for individuals with an **Aadhaar-linked mobile number**.
+* PAN application fees vary depending on **dispatch mode and applicant location**.
+* PAN card corrections or updates can also be requested online.
+* Companies and LLPs receive **PAN automatically during company incorporation**.
+
+---
+
+# How to Apply for PAN Card Online
+
+PAN card applications can be submitted online through the following authorised portals:
+
+1. Income Tax e-Filing Portal (Instant e-PAN)
+2. NSDL (Protean eGov Technologies) Portal
+3. UTIITSL Portal
+
+Online applications are usually **faster and allow easy tracking of application status**.
+
+---
+
+# Method 1: Apply for Instant e-PAN via Income Tax Portal
+
+Individuals with a **valid Aadhaar number and Aadhaar-linked mobile number** can apply for an **Instant e-PAN**.
+
+Official Portal:
+https://www.incometax.gov.in/iec/foportal/
+
+**Step 1:** Visit the Income Tax e-Filing portal:
+https://www.incometax.gov.in/iec/foportal/
+
+**Step 2:** Click **“Instant e-PAN”**.
+
+**Step 3:** Select **“Get New e-PAN.”**
+
+**Step 4:** Enter your **Aadhaar number** and click **Continue**.
+
+**Step 5:** Accept the declaration and enter the **OTP received on your Aadhaar-linked mobile number**.
+
+**Step 6:** Verify the details fetched from Aadhaar and confirm.
+
+After successful verification, an **acknowledgement number** will be generated.
+The **e-PAN is usually issued within a few minutes** and can be downloaded from the portal.
+
+Note:
+
+* Instant e-PAN is available **only for individual Indian citizens**.
+* Applicants must be **above 18 years of age** with an Aadhaar-linked mobile number.
+
+---
+
+# Method 2: Apply for PAN Card Online via NSDL (Protean)
+
+Applicants can also apply for a PAN card using **Form 49A (Indian citizens)** or **Form 49AA (foreign citizens)**.
+
+Official Portal:
+https://www.onlineservices.nsdl.com/paam/endUserRegisterContact.html
+
+**Step 1:** Visit the NSDL PAN application website.
+
+**Step 2:** Select the application type:
+
+* **New PAN – Indian Citizen (Form 49A)**
+* **New PAN – Foreign Citizen (Form 49AA)**
+
+**Step 3:** Enter basic details such as:
+
+* Name
+* Date of birth
+* Email ID
+* Mobile number
+
+**Step 4:** Submit the form to generate a **Token Number**.
+
+**Step 5:** Continue filling the PAN application form by providing:
+
+* Personal details
+* Contact details
+* AO code
+* Document details
+
+**Step 6:** Upload the required documents.
+
+**Step 7:** Pay the PAN application fee through available payment options.
+
+After successful submission, you will receive an **acknowledgement number** to track the application.
+
+Once verified, the **PAN card will be issued and delivered within approximately 15–20 days**.
+
+---
+
+# Method 3: Apply for PAN Card Online via UTIITSL
+
+Applicants can also apply through the **UTI Infrastructure Technology and Services Limited (UTIITSL)** portal.
+
+Official Portal:
+https://www.pan.utiitsl.com/
+
+**Step 1:** Visit the UTIITSL PAN portal.
+
+**Step 2:** Click **“Apply for New PAN Card.”**
+
+**Step 3:** Select the appropriate form:
+
+* **Form 49A** for Indian citizens
+* **Form 49AA** for foreign citizens
+
+**Step 4:** Fill in the required details such as:
+
+* Personal information
+* Address details
+* Parent details
+* Document details
+
+**Step 5:** Upload the required documents.
+
+**Step 6:** Pay the application fee.
+
+After submission, an **acknowledgement number will be generated**.
+The PAN card is usually **issued within 15 days after verification**.
+
+---
+
+# How to Apply for PAN Card Offline
+
+Applicants can also apply for PAN through offline mode.
+
+**Step 1:** Obtain **Form 49A or Form 49AA** from a PAN service centre or download it online.
+
+**Step 2:** Fill out the application form carefully.
+
+**Step 3:** Attach:
+
+* Passport-size photographs
+* Signature
+* Required supporting documents
+
+**Step 4:** Submit the form at the nearest **PAN service centre**.
+
+**Step 5:** Pay the PAN application fee.
+
+You will receive an **acknowledgement number** which can be used to track the application status.
+
+After verification, the PAN card is usually issued within **15–20 days**.
+
+---
+
+# Eligibility for PAN Card
+
+The following individuals and entities can apply for PAN:
+
+* Indian citizens aged **18 years and above**
+* **Minors** (through guardians)
+* **Hindu Undivided Families (HUFs)**
+* **Companies and LLPs**
+* **Partnership firms**
+* **Trusts and associations**
+* **Foreign nationals and NRIs**
+
+---
+
+# Documents Required for PAN Card
+
+Applicants must submit supporting documents along with the application.
+
+### Identity Proof
+
+Examples include:
+
+* Aadhaar card
+* Passport
+* Voter ID
+* Driving licence
+
+### Address Proof
+
+Examples include:
+
+* Aadhaar card
+* Utility bills
+* Bank statements
+* Passport
+
+### Date of Birth Proof
+
+Examples include:
+
+* Birth certificate
+* Aadhaar card
+* Passport
+* School leaving certificate
+
+Companies and other entities must submit **registration certificates or incorporation documents**.
+
+---
+
+# PAN Card Application Fees
+
+| Mode of Application | Dispatch Mode              | Fee (Approx.) |
+| ------------------- | -------------------------- | ------------- |
+| Online/Offline      | Physical PAN within India  | ₹107          |
+| Online/Offline      | Physical PAN outside India | ₹1,017        |
+| Online (Paperless)  | Physical PAN within India  | ₹101          |
+| Online/Offline      | e-PAN sent via email       | ₹66 – ₹72     |
+
+---
+
+# Automatic PAN Allotment for Companies
+
+For companies and LLPs, **PAN is automatically allotted during company incorporation** through the **Ministry of Corporate Affairs (MCA)** system.
+
+No separate PAN application is required.
+
+---
+
+# How to Update or Correct PAN Card Details
+
+If you need to update details such as **name, date of birth, or address**, you can request a correction online.
+
+**Step 1:** Visit either the NSDL or UTIITSL portal.
+
+**Step 2:** Select **“Changes or Corrections in Existing PAN / Reprint of PAN Card.”**
+
+**Step 3:** Enter the details to be updated and upload supporting documents.
+
+**Step 4:** Pay the correction processing fee.
+
+After verification, the **updated PAN card will be issued within approximately 15 days**.
+
+---
+
+# Summary
+
+A PAN card is an essential identity and financial document required for many activities such as filing income tax returns, opening bank accounts, and making large financial transactions.
+
+Applicants can easily apply for PAN through the **Income Tax portal, NSDL, or UTIITSL**, either online or offline. With options like **Instant e-PAN**, the process has become faster and more convenient for individuals.

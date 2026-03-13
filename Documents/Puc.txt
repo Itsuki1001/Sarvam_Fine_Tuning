@@ -1,0 +1,203 @@
+# PUC Certificate: How to Get, Download, and Check Status Online
+
+With digital services becoming widely available, many vehicle-related services can now be accessed online from home. One such service is checking and downloading your **Pollution Under Control (PUC) Certificate**.
+
+A **PUC certificate** is a government-issued document that confirms your vehicle’s emissions are within the permissible pollution limits set by authorities. It is a **mandatory document** that every vehicle must have while driving on Indian roads.
+
+You can check or download your certificate through the official Parivahan portal:
+https://puc.parivahan.gov.in/puc/
+
+---
+
+# What is a PUC Certificate?
+
+A **Pollution Under Control (PUC) certificate** confirms that your vehicle’s emissions are within the allowed limits defined by environmental regulations.
+
+It is issued after your vehicle undergoes an **emission test at an authorised PUC centre**.
+
+Under the **Motor Vehicles Act, 1988**, driving a vehicle without a valid PUC certificate can result in penalties.
+
+### Why the PUC Test is Important
+
+* Ensures vehicles emit pollutants within permissible limits
+* Helps reduce environmental pollution
+* Detects potential engine issues early
+* Allows vehicles to legally operate on public roads
+* Required while renewing vehicle insurance
+
+---
+
+# Components of a PUC Certificate
+
+### PUC Serial Number
+
+Each certificate has a **unique serial number** used for tracking and verification.
+
+### Vehicle Details
+
+Includes vehicle information such as:
+
+* Vehicle registration number
+* Make and model
+* Fuel type
+
+### Issue Date and Expiry Date
+
+The certificate displays the **date of issue and expiry**.
+
+Validity:
+
+* **New vehicles:** 1 year
+* **Older vehicles:** 6 months
+
+### Emission Readings
+
+The certificate includes emission readings such as:
+
+* **CO (Carbon Monoxide)**
+* **HC (Hydrocarbons)**
+
+These values confirm whether the vehicle complies with emission standards.
+
+---
+
+# How to Download a PUC Certificate Online
+
+You can download or print your PUC certificate online through the **Parivahan portal**.
+
+**Step 1:** Visit the official PUC portal:
+https://puc.parivahan.gov.in/puc/
+
+**Step 2:** Click on the **“PUC Certificate”** option on the homepage.
+
+**Step 3:** Enter the required details:
+
+* Vehicle registration number
+* Last **5 digits of the chassis number**
+
+**Step 4:** Enter the **captcha code**.
+
+**Step 5:** Click **“PUC Details”** to view your certificate.
+
+If your vehicle has a valid PUC certificate, it will be displayed on the screen and you can **download or print it for your records**.
+
+Note: You can **only download an existing valid certificate online**. To obtain a new certificate or renew an expired one, you must visit an authorised PUC centre.
+
+---
+
+# How to Find the Nearest PUC Centre
+
+You can find authorised emission testing centres using the Parivahan portal.
+
+**Step 1:** Visit the PUC portal:
+https://puc.parivahan.gov.in/puc/
+
+**Step 2:** Click **“PUC Center List.”**
+
+**Step 3:** Select your **state and district**.
+
+**Step 4:** The portal will display a list of **RTO-authorised PUC centres**, including:
+
+* Address
+* Contact details
+* Vehicle testing availability
+
+Always obtain your certificate from **authorised centres only**.
+
+---
+
+# How to Check PUC Application Status Online
+
+If you applied for a new PUC certificate, you can check its status online.
+
+**Step 1:** Visit the Parivahan portal:
+https://parivahan.gov.in/parivahan/
+
+**Step 2:** Click **“Online Services.”**
+
+**Step 3:** Select **“Application Status.”**
+
+**Step 4:** Choose the application type:
+
+* Registration
+* Renewal
+
+**Step 5:** Enter your **application ID**.
+
+**Step 6:** Enter the captcha and click **Submit** to view the status.
+
+---
+
+# How to Check PUC Certificate Validity
+
+You can check whether your certificate is valid by following these steps.
+
+**Step 1:** Visit the PUC portal:
+https://puc.parivahan.gov.in/puc/
+
+**Step 2:** Click **“PUC Certificate.”**
+
+**Step 3:** Enter:
+
+* Vehicle registration number
+* Last 5 digits of the chassis number
+* Captcha code
+
+**Step 4:** Submit the form to view the validity details of your certificate.
+
+---
+
+# Permissible Emission Levels
+
+| Vehicle Type                          | Manufacturing Period | CO Limit (%) | HC Limit (PPM) |
+| ------------------------------------- | -------------------- | ------------ | -------------- |
+| 2 & 4 stroke bikes and 3-wheelers     | Before 31 March 2000 | 4.5          | 9000           |
+| 2 stroke bikes and 3-wheelers         | After 31 March 2000  | 3.5          | 6000           |
+| 4 stroke bikes and 3-wheelers         | After 31 March 2000  | 3.5          | 4000           |
+| Cars (Pre Bharat Stage 2 norms)       | Older vehicles       | 3            | 1500           |
+| Cars (Bharat Stage 2 / Stage 3 norms) | Modern vehicles      | 0.5          | 750            |
+
+---
+
+# Is PUC Mandatory for Vehicle Insurance?
+
+Yes. The **Insurance Regulatory and Development Authority of India (IRDAI)** requires vehicle owners to have a **valid PUC certificate** while renewing motor insurance.
+
+This rule was introduced in collaboration with the **Environment Pollution (Prevention and Control) Authority (EPCA)** to control vehicle emissions.
+
+Without a valid PUC certificate, insurance renewal may not be processed.
+
+---
+
+# Conclusion
+
+A valid **PUC certificate** ensures that your vehicle meets environmental emission standards and complies with legal requirements. It also helps maintain your vehicle’s engine health and allows you to drive legally on public roads.
+
+With the **Parivahan portal**, vehicle owners can easily check their certificate validity, download their PUC certificate, and locate authorised testing centres online.
+
+Always ensure your certificate is **renewed before expiry** to avoid penalties and maintain compliance with vehicle regulations.
+
+---
+
+# Frequently Asked Questions (FAQs)
+
+### Do I need a new PUC certificate when travelling to another state?
+
+No. A valid PUC certificate issued in one state is **valid across all states in India**.
+
+---
+
+### What documents must I carry while driving?
+
+You must carry the following documents:
+
+* Driving Licence
+* Vehicle Registration Certificate (RC)
+* Valid Vehicle Insurance
+* Pollution Under Control (PUC) Certificate
+
+---
+
+### Can I renew my PUC certificate before it expires?
+
+Yes. It is advisable to renew your certificate **before the expiry date** to avoid penalties or legal issues.
